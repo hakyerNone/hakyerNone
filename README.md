@@ -7,7 +7,7 @@
 </p> -->
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AnonHexo/AnonHexo/master/src/code.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 </br>
 
 ## **About Me** <img align="right" alt="views" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
