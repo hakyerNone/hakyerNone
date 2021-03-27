@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AnonHexo/AnonHexo/master/src/code.gif">
 </br>
 
-## **About Me** <img align="right" alt="views" src="https://komarev.com/ghpvc/?username=AnonHexo&style=flat-square">
+## **About Me** <img align="right" alt="views" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
  
 . I want to become a good programmer
 . I  work with **Visual Studio Code**.
