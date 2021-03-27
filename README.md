@@ -7,8 +7,8 @@
 ## **About Me** 
  
 . I want to become a good programmer <br>
-. I  work with **Visual Studio Code**.
-. I want to learn everytime every typer of code. 💪
+. I  work with **Visual Studio Code**.<br>
+. I want to learn everytime every typer of code. 💪<br>
 
 ### **info:** >> <a href="https://i.imgur.com/MxAE8Wp.mp4" title="click me">👨‍🎓️️</a>
 
