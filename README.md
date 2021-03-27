@@ -1,5 +1,8 @@
-# <p align="center">️ **Hi, <> I'm hakyeNone**</p>
+# <p align="center">️ **Hi, I'm hakyeNone**</p>
 
+<p>
+ I'm 13 y/o developer from italy
+</p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 </br>
