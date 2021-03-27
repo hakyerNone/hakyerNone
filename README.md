@@ -1,4 +1,4 @@
-# <p align="center">️ **Hi, <img align="center" src="/src/emoji_1.gif" weight=50 height=50> I'm AnonHexo**</p>
+# <p align="center">️ **Hi, <> I'm AnonHexo**</p>
 
 <p align="center">
 <!-- <p align="center">
@@ -7,7 +7,7 @@
 </p> -->
 
 <br>
-<img align="right" alt="Coding" width="400" src="/src/code.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AnonHexo/AnonHexo/master/src/code.gif">
 </br>
 
 ## **About Me** <img align="right" alt="views" src="https://komarev.com/ghpvc/?username=AnonHexo&style=flat-square">
