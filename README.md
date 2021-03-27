@@ -11,28 +11,26 @@
 </br>
 
 ## **About Me** <img align="right" alt="views" src="https://komarev.com/ghpvc/?username=AnonHexo&style=flat-square">
+ 
+. I want to become a good programmer
+. I  work with **Visual Studio Code**.
+. I want to learn everytime every typer of code. 💪
 
-- I'm aspiring 🔭️ Full-Stack Web Developer, currently learning 🌱 **Node.js**.
-- I always love to 👨‍💻 work with **Visual Studio Code**.
-- I want to learn everytime ⏰ so any suggestion will be **appreciated**. 💪
-
-### **Currently Developing:** >> <a href="https://i.imgur.com/MxAE8Wp.mp4" title="click me">👨‍🎓️️</a>
+### **info:** >> <a href="https://i.imgur.com/MxAE8Wp.mp4" title="click me">👨‍🎓️️</a>
 
 ---
 
 <div align="center">
 <p align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api/?username=AnonHexo&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonHexo&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakyerNone&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000%22" />
 </p>
 
 # ⌨️ Languages
-![C++](https://img.shields.io/badge/-C%2B%2B-283593?style=for-the-badge&logo=c%2B%2B)
 ![HTML](https://img.shields.io/badge/-html-e34c26?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css-264de4?&style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-306998?style=for-the-badge&logo=python&logoColor=FFE873)
 
-# 🛠️ Tools
+# 🛠️ what do I use
 ![Visual Studio](https://img.shields.io/badge/-visual%20studio-652076?style=for-the-badge&logo=visual-studio)
 ![VSCode](https://img.shields.io/badge/-vscode-0078d7?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-git-f1502f?&style=for-the-badge&logo=git&logoColor=white)
