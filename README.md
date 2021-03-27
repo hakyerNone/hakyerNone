@@ -28,7 +28,7 @@
 ![Visual Studio](https://img.shields.io/badge/-visual%20studio-652076?style=for-the-badge&logo=visual-studio)
 ![VSCode](https://img.shields.io/badge/-vscode-0078d7?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-git-f1502f?&style=for-the-badge&logo=git&logoColor=white)
-(https://img.shields.io/badge/-windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/-WINDOWS-?style=for-the-badge&logo=appveyor=green)
 
 
 
