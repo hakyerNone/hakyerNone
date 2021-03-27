@@ -1,16 +1,16 @@
 # <p align="center">️ **Hi, <> I'm AnonHexo**</p>
 
 <p align="center">
-<!-- <p align="center">
+ <p align="center">
 <img align="center" alt="krunker-hack-working-status" src="https://img.shields.io/badge/-krunker%20hack%20working-00ff00?logo=v&logoColor=white&style=for-the-badge"></img>
 <img align="center" alt="krunker-hack-working-status" src="https://img.shields.io/badge/-krunker%20hack%20not%20working-ff0000?logo=nutanix&style=for-the-badge"></img>
-</p> -->
+</p> 
 
 <br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 </br>
 
-## **About Me** <img align="right" alt="views" src="">
+## **About Me** 
  
 . I want to become a good programmer
 . I  work with **Visual Studio Code**.
