@@ -6,7 +6,7 @@
 
 ## **About Me** 
  
-. I want to become a good programmer
+. I want to become a good programmer <br>
 . I  work with **Visual Studio Code**.
 . I want to learn everytime every typer of code. 💪
 
