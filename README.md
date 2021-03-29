@@ -1,4 +1,4 @@
-# <p align="center">️ **Hi, I'm hakyeNone**</p>
+# <p align="center">️ **Hi, I'm hakyerNone**</p>
 
 <p>
  I'm 13 y/o developer from italy
@@ -11,7 +11,7 @@
  
 . I want to become a good programmer <br>
 . I  work with **Visual Studio Code/visual stuio**.<br>
-. I want to learn everytime every typer of code. <br>
+. I want to learn everytime every type of code. <br>
 
 ### **info:** >> <a href="https://i.imgur.com/MxAE8Wp.mp4" title="click me">👨‍🎓️️</a>
 
